@@ -1,0 +1,17 @@
+.arr-container {
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    margin-top: 50px;
+}
+.array-bar {
+    width: 3px;
+    /* height: 30px; */
+    background-color: rgb(115, 129, 196);
+    display: inline-block;
+    margin: 0 1px;
+}
+.butt{
+    border-radius: 5px;
+    margin: 2px 2px 2px 2px;
+}
