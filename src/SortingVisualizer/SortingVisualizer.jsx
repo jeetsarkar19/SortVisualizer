@@ -36,7 +36,7 @@ export default class SortingVisualizer extends React.Component {
                 const [bar1,bar2] = newani[i];
                 const b1Style = arrBar[bar1].style;
                 const b2Style = arrBar[bar2].style;
-                const color = i % 3 === 0 ? 'red':'rgb(115, 129, 196)';
+                const color = i % 3 === 0 ? 'red':'yellow';
                 setTimeout(() => {
                     b1Style.backgroundColor = color;
                     b2Style.backgroundColor = color;
