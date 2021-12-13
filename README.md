@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Sort Visualizer
+
+* This is a project based on visualizing various Sorting Algorithms. The implemented algorithms include - MergeSort
+* The algorithms to be implemented are Quick Sort and Bubble Sort
+* The link to the hosted site can be found here: https://sortvisualizers.herokuapp.com/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## React ReadMe
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
